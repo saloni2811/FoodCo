@@ -282,7 +282,7 @@ footer {
 
     background: #FFFFFF;
     border: 1px solid #FC6C03;
-    border-radius: 24px;
+    border-radius: 10px;
     cursor: pointer;
 
 
@@ -304,7 +304,7 @@ footer {
     top: 503px;
 
     background: #FC6C03;
-    border-radius: 24px;
+    border-radius: 10px;
     cursor: pointer;
 
 
