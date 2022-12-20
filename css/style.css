@@ -222,6 +222,9 @@ html {
     font-size: 1.1rem;
 
 }
+.form-group{
+    color: rgba(85, 3, 3, 0.825);
+}
 
 footer {
     background-color: black;
