@@ -117,7 +117,7 @@ html {
 
 /* Services Section */
 #services {
-    margin: 34px;
+    margin: 4px;
     display: flex;
     flex-direction: column;
 
@@ -227,7 +227,7 @@ footer {
     background-color: black;
     color: white;
     padding: 0.8rem;
-    margin-top: 5%;
+    margin-top: 6%;
 
 }
 
@@ -268,7 +268,7 @@ footer {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    padding: 16px 24px;
+    padding: 18px 38px;
     gap: 10px;
 
     position: absolute;
@@ -280,6 +280,8 @@ footer {
     background: #FFFFFF;
     border: 1px solid #FC6C03;
     border-radius: 24px;
+    cursor: pointer;
+
 
 
 
@@ -289,7 +291,7 @@ footer {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
-    padding: 16px 24px;
+    padding: 18px 38px;
     gap: 10px;
 
     position: absolute;
@@ -300,6 +302,8 @@ footer {
 
     background: #FC6C03;
     border-radius: 24px;
+    cursor: pointer;
+
 
 
 }
