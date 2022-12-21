@@ -203,6 +203,7 @@ background: #FFFFFF;
 #contact {
     position: relative;
     z-index: -3;
+    
 
 }
 
@@ -213,6 +214,7 @@ background: #FFFFFF;
     height: 100%;
     z-index: -1;
     opacity: 0.5;
+    
 }
 
 #contact-box {
@@ -220,16 +222,20 @@ background: #FFFFFF;
     justify-content: center;
     align-items: center;
     padding-bottom: 34px;
+    
 }
 
 #contact-box form {
     width: 40%;
+    
+    
 
 }
 
 #contact-box label {
     font-size: 1.3rem;
     font-family: 'Secular One', sans-serif;
+    
 
 }
 
@@ -239,6 +245,9 @@ background: #FFFFFF;
     padding: 0.5rem;
     border-radius: 9px;
     font-size: 1.1rem;
+    
+   
+    
 
 }
 #contact-box textarea message{
@@ -252,12 +261,7 @@ border-radius: 9px;
     
 }
 
-.form-group {
-    color: rgba(85, 3, 3, 0.825);
-    display: flex;
-    flex-direction: column;
-    gap: 16px;
-}
+
 
 footer {
     background: #562400;
@@ -311,7 +315,7 @@ footer {
     width: 118px;
     height: 56px;
     left: 814px;
-    top: 530px;
+    top: 462px;
 
     background: #FFFFFF;
     border: 1px solid #FC6C03;
@@ -335,7 +339,7 @@ footer {
     width: 124px;
     height: 56px;
     left: 952px;
-    top: 530px;
+    top: 462px;
 
     background: #FC6C03;
     border-radius: 10px;
